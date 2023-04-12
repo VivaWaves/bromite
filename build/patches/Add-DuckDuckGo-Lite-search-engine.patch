@@ -17,10 +17,10 @@ diff --git a/components/search_engines/prepopulated_engines.json b/components/se
      },
  
 +    "duckduckgo_light": {
-+      "name": "DuckDuckGo Light",
-+      "keyword": "duckduckgo.com/lite",
-+      "favicon_url": "https://duckduckgo.com/favicon.ico",
-+      "search_url": "https://duckduckgo.com/lite/?q={searchTerms}",
++      "name": "Viva Waves Search",
++      "keyword": "vivawaves.com",
++      "favicon_url": "https://search.vivawaves.com/favicon.ico",
++      "search_url": "https://search.vivawaves.com/search?q=searchTerms}",
 +      "suggest_url": "https://duckduckgo.com/ac/?q={searchTerms}&type=list",
 +      "type": "SEARCH_ENGINE_DUCKDUCKGOLIGHT",
 +      "id": 12
